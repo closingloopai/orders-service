@@ -1,2 +1,3 @@
 # orders-service
-Order lifecycle + cancellation
+
+Order lifecycle state machine + cancellation/refund rules.
